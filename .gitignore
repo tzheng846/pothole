@@ -1,0 +1,8 @@
+input_videos
+models
+output_videos
+runs/detect/predict
+runs
+training
+yolov8m.pt
+*.pyc
